@@ -1,0 +1,10 @@
+
+/* Change the color of links on hover */
+ a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+#leftbar{
+  float: left;
+}
